@@ -1,6 +1,1 @@
-- [ ] Website - Create a personal website.
-- [ ] Stereotypical programming exercises—FizzBuzz, Conway's Game of Life.
-- [ ] Games - Simple turn-based card game/Pong/Asteroids.
-- [ ] Mobile app.
-- [ ] Scripts.
-- [ ] Plug-ins (productivity tool).
+
